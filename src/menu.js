@@ -52,7 +52,7 @@
       { name: "Real Banana Milkshake", price: 99, image: "https://tse1.mm.bing.net/th/id/OIP.4P1WCl1qOc7pun_TYTR4dQHaHa?pid=Api&P=0&h=180" },
       { name: "Real Banana Thickshake", price: 149, image: "https://tse2.mm.bing.net/th/id/OIP.D50bapx8a6i8pCp3MMRBnQHaHa?pid=Api&P=0&h=180" },
       { name: "Strawberry Milkshake", price: 99, image: "https://tse1.mm.bing.net/th/id/OIP.a_H9zxwQ9GxrCgNc6J9jlgHaHa?pid=Api&P=0&h=180" },
-      { name: "Strawberry Thickshake", price: 149, image: "hhttps://tse2.mm.bing.net/th/id/OIP.tgx1ZDUHh41XYwWwwX-idwHaLH?pid=Api&P=0&h=180" },
+      { name: "Strawberry Thickshake", price: 149, image: "https://tse2.mm.bing.net/th/id/OIP.tgx1ZDUHh41XYwWwwX-idwHaLH?pid=Api&P=0&h=180" },
       { name: "Strawberry Choco Chips Milkshake", price: 99, image: "https://tse4.mm.bing.net/th/id/OIP.s21xfI26GcaO6At4tJBYOwHaKZ?pid=Api&P=0&h=180" },
       { name: "Strawberry Choco Chips Thickshake", price: 149, image: "https://tse4.mm.bing.net/th/id/OIP.Tv_qZ8927-n1mESNfj9TuwHaLH?pid=Api&P=0&h=180" }
     ]
