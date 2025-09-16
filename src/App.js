@@ -57,9 +57,13 @@ function App() {
       {/* footer */}
 
       <div className="footer">
-        <h1>Order Now</h1>
-        <h1>Call at: {secNumber}</h1>
-        <h2>Best Deals for You and Your Gang Too..</h2>
+        <div><span>Order Now</span>
+        <span>Call At: {secNumber}</span>
+        <span className="last">Best Deals for You and Your Gang Too..</span></div>
+        <div>
+                  <img src="./logo.png" alt="Crave-Corner"></img>
+
+        </div>
       </div>
     </div>
   );

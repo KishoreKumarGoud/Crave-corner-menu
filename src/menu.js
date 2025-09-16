@@ -47,8 +47,8 @@
     category: "Fruity Delights",
      image:"https://tse3.mm.bing.net/th/id/OIP.uonY282AhCmna-wuZgQhEgHaE8?pid=Api&P=0&h=180",
     items: [
-      { name: "Red Mango Milkshake", price: 99, image: "https://tse4.mm.bing.net/th/id/OIP.YzBW01k1bYT9e41k0XfBrwHaLG?pid=Api&P=0&h=180" },
-      { name: "Red Mango Thickshake", price: 149, image: "https://tse1.mm.bing.net/th/id/OIP.-3SWojqr2cxzoy5CAcYzFQHaEK?pid=Api&P=0&h=180" },
+      { name: "Real Mango Milkshake", price: 99, image: "https://tse4.mm.bing.net/th/id/OIP.YzBW01k1bYT9e41k0XfBrwHaLG?pid=Api&P=0&h=180" },
+      { name: "Real Mango Thickshake", price: 149, image: "https://tse1.mm.bing.net/th/id/OIP.-3SWojqr2cxzoy5CAcYzFQHaEK?pid=Api&P=0&h=180" },
       { name: "Real Banana Milkshake", price: 99, image: "https://tse1.mm.bing.net/th/id/OIP.4P1WCl1qOc7pun_TYTR4dQHaHa?pid=Api&P=0&h=180" },
       { name: "Real Banana Thickshake", price: 149, image: "https://tse2.mm.bing.net/th/id/OIP.D50bapx8a6i8pCp3MMRBnQHaHa?pid=Api&P=0&h=180" },
       { name: "Strawberry Milkshake", price: 99, image: "https://tse1.mm.bing.net/th/id/OIP.a_H9zxwQ9GxrCgNc6J9jlgHaHa?pid=Api&P=0&h=180" },
