@@ -1,38 +1,115 @@
 .App {
+  font-family: Arial, sans-serif;
+  padding: 5px;
+}
+
+/* Header */
+.header img{width: 80px; background-color: #f9f9f9; border-radius: 90px;height: 89px;}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #800000; /* maroon */
+  color: white;
+  padding: 20px 15px;
+  border-radius: 6px;
+}
+
+.location {
+  font-size: 28px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Category Bubbles */
+.category-row {
+  display: flex;
+  gap: 15px;
+  overflow-x: auto;
+  margin: 15px 0;
+  padding-bottom: 10px;
+}
+
+.category-bubble {
+  display: flex;flex-direction: column; justify-content: center;
   text-align: center;
+  font-size:x-small;
+}
+.category-bubble{padding-left: 3px; ;}
+.category-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 5px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Menu List */
+.category-section {
+  margin-bottom: 25px;
+}
+.location{font-weight: 600; font-size: small;}
+.category-section h2 {
+  color: #800000;
+  margin: 15px 0;
+  padding-left: 4px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* Grid Layout */
+.item-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.item-card {
+  background: #f9f9f9;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  text-align: center;
+}
+
+.item-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 8px;
+  object-fit: cover;
+  margin-bottom: 8px;
+}
+
+.item-info {
+  margin-bottom: 6px;
+}
+
+.item-name {
+  font-weight: bold;
+  display: block;
+}
+
+.item-price {
+  color: #333;
+  font-size: 14px;
+}
+
+.order-btn {
+  background: #ff9800;
   color: white;
+  padding: 6px 10px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 14px;
 }
-
-.App-link {
-  color: #61dafb;
+.footer {
+  display: flex;
+  flex-direction: column;
+  
+  align-items: center;
+  background: #800000; /* maroon */
+  color: white;
+  padding: 10px 15px;
+  border-radius: 6px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+.footer h2{margin-top:-200px,monospace;color:rgb(232, 156, 6) ; font-size:xxx-large;}
