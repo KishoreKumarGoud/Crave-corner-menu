@@ -35,7 +35,7 @@
     image:"https://tse2.mm.bing.net/th/id/OIP.1ILUBI81oCG4FvHFhAkqqgHaFi?pid=Api&P=0&h=180",
     items: [
       { name: "Salted French Fries", price: 59, image: "https://tse1.mm.bing.net/th/id/OIP.LFdG3dZaBRgZFudzEfJG_QHaFJ?pid=Api&P=0&h=180" },
-      { name: "Peri Peri French Fries", price: 69, image: "hhttps://tse3.mm.bing.net/th/id/OIP.IOzHXfBdip-9bNJO4OinWgHaHa?pid=Api&P=0&h=180" },
+      { name: "Peri Peri French Fries", price: 69, image: "https://tse3.mm.bing.net/th/id/OIP.IOzHXfBdip-9bNJO4OinWgHaHa?pid=Api&P=0&h=180" },
       { name: "Veg Nuggets", price: 69, image: "https://tse3.mm.bing.net/th/id/OIP.CCW3pfAXuoSxJeISLOgfUgHaLH?pid=Api&P=0&h=180" },
       { name: "Chicken Nuggets", price: 89, image: "https://tse3.mm.bing.net/th/id/OIP.ovh-2HeLRNnzyGPgcRB5CgHaEJ?pid=Api&P=0&h=180" },
       { name: "Veg Momos", price: 69, image: "https://tse4.mm.bing.net/th/id/OIP.Kw6_RnXlZ7w6J0K3_f4PCwHaLH?pid=Api&P=0&h=180" },
