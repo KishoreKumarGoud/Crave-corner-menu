@@ -2,8 +2,8 @@ import React from "react";
 import { menu } from "./menu";
 import "./App.css";
 
-const phoneNumber = "9985788997";
-const secNumber="7993294071"; // replace with your business number
+const phoneNumber = "7993294071";
+const secNumber="9985788997"; // replace with your business number
 
 function App() {
   return (
